@@ -1,2 +1,2 @@
 # threadpool-example
-First repository
+This is the first workshop repository ever.
